@@ -9,10 +9,10 @@ The spotify-this-song input allows us to get information regarding the album the
 
 Finally the do-what-it-says input will do whatever is in the random.txt file.
 
-![Bands](bands.PNG)
-![Movies](movie.PNG)
-![Movies2](default-movie.PNG)
-![Spotify](spotify.PNG)
-![Spotify2](default-spotify.PNG)
-![DoWhatever](whatever.PNG)
+![Bands](bands.png)
+![Movies](movie.png)
+![Movies2](default-movie.png)
+![Spotify](spotify.png)
+![Spotify2](default-spotify.png)
+![DoWhatever](whatever.png)
 
